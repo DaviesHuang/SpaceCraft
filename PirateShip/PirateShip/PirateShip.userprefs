@@ -1,0 +1,17 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShipController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Health.cs" Line="10" Column="11" />
+      <File FileName="Assets/Scripts/ShipController.cs" Line="37" Column="25" />
+      <File FileName="Assets/Scripts/SetupLocalPlayer.cs" Line="21" Column="29" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jimmyliu/Documents/PirateShip/Assets/Scripts/Player.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
