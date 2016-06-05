@@ -4,6 +4,7 @@
     //$result = pg_query($db_connection, "insert into lol values(13,'2','34');");
      
    echo $_POST["username"];  
-   echo '<br/-->';
+   echo '+';
+   echo $_POST["password"];
 
 ?>
